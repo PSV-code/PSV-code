@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PSV-code.
+- 👋 Hi, I’m Sergey.
 - 👀 I’m interested in HTML, CSS and JavaScript.
 - 🌱 I’m currently learning Frontend Development Basics.
 
